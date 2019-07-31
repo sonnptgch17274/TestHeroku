@@ -15,7 +15,7 @@
     <div class="trang">
         <div class="than">
             <h1>Introduce myself</h1>
-            <img src="" alt="Joker/19113548_677723689086613_8698735718120989330_n">
+            <img src="GitHub\TestHeroku\19113548_677723689086613_8698735718120989330_n.jpg" alt="">
         </div>
 
     </div>
