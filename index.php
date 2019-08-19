@@ -14,8 +14,9 @@
 <body>
     <div class="trang">
         <div class="than">
-            <h1>Introduce myself</h1>
-            <img src="GitHub\TestHeroku\19113548_677723689086613_8698735718120989330_n.jpg" alt="">
+            <h1>Jokerboy</h1>
+            <img src="TestHeroku/Imgaes" alt="">
+            <h1>Jokerboy</h1>
         </div>
 
     </div>
